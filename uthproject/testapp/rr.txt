@@ -1,0 +1,5 @@
+DEBUG:root:This is degug
+DEBUG:root:This is degug
+WARNING:root:This is warning
+CRITICAL:root:This is critical
+ERROR:root:This is error
